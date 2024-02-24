@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&size=30&pause=1000&color=9B30F7&center=true&vCenter=true&random=false&width=435&lines=Hello+Im)](https://git.io/typing-svg) Ishan Himalka
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&weight=500&size=30&pause=1000&color=9B30F7&random=false&width=442&height=46&lines=Hello+I%60m+)](https://git.io/typing-svg) Ishan Himalka
 
 **`Software Developer`**
 
