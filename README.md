@@ -1,9 +1,9 @@
 # 💻 Ishan Himalka
-**`Software Engineer`**
+**`Software Developer`**
 
-### Hi there 👋
 
-asd
+Dedicated and results-driven Software Engineer with a passion for creating efficient, scalable, and maintainable software solutions. With a solid foundation in computer science and hands-on experience in full-stack development, I excel at translating complex technical requirements into user-friendly applications. Adept at collaborating with cross-functional teams to deliver high-quality software within project timelines.Known for my problem-solving skills and commitment to staying abreast of emerging technologies, I bring a proactive and innovative approach to every project.Able to work independently of remote locations or in office environments as needed by the company..
+
 <!--
 **ishanhimalka/ishanhimalka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
